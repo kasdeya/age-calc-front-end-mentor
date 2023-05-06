@@ -8,8 +8,8 @@ This is a solution to the [Age Calculator App challenge on Frontend Mentor](http
 
 ## Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/my-react-solution-HpPDC0Ft54)
-- Live Site URL: [Live Solution](https://dictionary-web-app-five.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/vue-solution-3F9GHMnfSU)
+- Live Site URL: [Live Solution](https://age-calc-front-end-mentor.vercel.app/)
 
 ## Built with
 
