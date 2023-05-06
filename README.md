@@ -1,24 +1,26 @@
-# age-calc
+# Frontend Mentor - Age Calculator Web App
 
-## Project setup
-```
-npm install
-```
+This is a solution to the [Age Calculator App challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Preview
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![screenshot](./public/screenshot.png)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Links
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/my-react-solution-HpPDC0Ft54)
+- Live Site URL: [Live Solution](https://dictionary-web-app-five.vercel.app/)
+
+## Built with
+
+- Vue.js 3
+
+## Author
+
+- Website - [Jesus Venegas](https://www.jesusvenegas.com) (WIP)
+- Frontend Mentor - [@kasdeya](https://www.frontendmentor.io/profile/kasdeya)
+
+## Acknowledgments
+
+- Inspiration by [Front End Mentor](https://www.frontendmentor.io/)
+
